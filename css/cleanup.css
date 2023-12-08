@@ -1,1 +1,15 @@
 /* write your override styles here */
+body {
+    background-color: #f8f8f8;
+    align-content: center;
+    border: 30px;
+    box-sizing: border-box;
+    align-items: center;
+}
+div {
+    background-color: #f8f8f8;
+    align-content: center;
+    border-radius: 22px;
+    box-shadow: 10px;
+    align-items: center;
+}
